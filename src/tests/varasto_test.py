@@ -76,3 +76,5 @@ class TestVarasto(unittest.TestCase):
         palautus = "saldo = 5, vielä tilaa 5"
 
         self.assertEqual(str(self.varasto), palautus)
+
+# moi :D
